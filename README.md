@@ -21,7 +21,7 @@ This is the **frontend** of a project developed during a Rocketseat event, showc
 ## 📂 Design Patterns
 
   * **Component-based Architecture** - React component-based architecture
-  * **File-based Routing** - File-based routing with React Router
+  * **Declarative Routing** - Routes declared in `app.tsx` with React Router
   * **Server State Management** - Server state management with React Query
   * **Variant-based Components** - Components with variants using CVA
   * **Composition Pattern** - Composition pattern with Radix Slot
